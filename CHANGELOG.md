@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/iyzana/yt-sync/compare/v1.0.2...v1.0.3) (2021-06-15)
+
+
+### Bug Fixes
+
+* update frontend dependencies ([3a001ca](https://www.github.com/iyzana/yt-sync/commit/3a001ca7fe7a40f9cad4b3f0952b313747d4d588))
+
 ### [1.0.2](https://www.github.com/iyzana/yt-sync/compare/v1.0.1...v1.0.2) (2021-06-06)
 
 
